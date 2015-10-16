@@ -19,7 +19,8 @@ If you have any problems or questions, you can [send an email to
 
 ## Topics
 
-1. [Screen](10-screen.html)
+1. [Warming up](01-warming-up.html)
+1. [Using screen to keep things running](10-screen.html)
 
 Each topic should be a chunk of 10-15 minutes.
 If that is too short, we should split it into several topics.
